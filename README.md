@@ -74,6 +74,11 @@ Conversational fee analysis and lead engine that answers with a priced verdict i
   <img src="https://cdn.simpleicons.org/gnubash/000000/FFFFFF" width="44" height="44" title="Bash"/>
 </p>
 
-## Links
+### Interactive 3D Developer Portfolio
+**Tech:** React, TypeScript, Three.js, GSAP, Vite
 
-[Portfolio](https://bendavidian.netlify.app)
+Developed an interactive portfolio featuring custom 3D environments, scroll-driven animations and responsive design.
+
+**[Explore Live Website](https://bendavidian.netlify.app/)**
+
+**Source:** Private repository.
