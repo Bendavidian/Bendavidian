@@ -34,7 +34,6 @@ Conversational fee analysis and lead engine that answers with a priced verdict i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="44" height="44" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="44" height="44" title="CSS3"/>
   <img src="https://cdn.simpleicons.org/rust/000000/FFFFFF" width="44" height="44" title="Rust"/>
-  <img src="./swipl-128.png" width="44" height="44" title="SWI-Prolog"/>
 </p>
 
 <!-- Frameworks and Libraries -->
